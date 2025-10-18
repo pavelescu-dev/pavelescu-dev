@@ -38,3 +38,5 @@ Currently editor-in-chief of the [Journal of Applied Matter Reviews](https://jam
 - Python (`numpy`, `scipy`, `ase`, `pymatgen`, `spglib`)
 - Fortran (legacy XRD codes, QE internals when needed)
 - A little bit of Julia when I'm feeling optimistic
+
+_Last updated: 2025-10-18_
